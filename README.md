@@ -37,12 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
-
----
 
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
