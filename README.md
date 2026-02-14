@@ -7,8 +7,7 @@
 - 🔭 I’m currently working on **MERN Stack Projects**  
 - 🌱 I’m currently learning **Node.js, React.js & Advanced JavaScript**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **JavaScript, React, Node.js, and Web Development**  
-- ⚡ *I can code 8–10 hours a day without getting bored!*  
+- 💬 Ask me about **JavaScript, React, Node.js, and Web Development**
 
 ---
 
