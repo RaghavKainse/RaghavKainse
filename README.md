@@ -39,7 +39,7 @@
 
 
 ## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=white)](https://raghavdev.shop/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=white)](https://raghavdev.shop)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-82a22735a/)  
 
 ---
